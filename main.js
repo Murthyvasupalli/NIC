@@ -17,7 +17,7 @@ var map = new ol.Map({
   // Add the overlay to the map
  
  document.getElementById('button1').addEventListener('click',function(){
-  alert("murthy");
+  alert("murth");
  })
   // Create a point feature
 var pointFeature = new ol.Feature({
